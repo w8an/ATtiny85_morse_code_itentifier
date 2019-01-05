@@ -1,4 +1,4 @@
-# ATtiny85_morse_code_itentifier
+# ATtiny85_morse_code_identifier
 Unattended amateur radio fox hunt hidden station identifier
 
 This program is used to control a Baofeng UV-5R VHF/UHF handheld transceiver.
